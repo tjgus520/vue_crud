@@ -1,15 +1,15 @@
-import { createWebHistory, createRouter } from "vue-router";
+// import { createWebHistory, createRouter } from "vue-router";
 
-const routes = [
-  {
-    path: "/경로",
-    component:
-  }
-];
+// const routes = [
+//   {
+//     path: "/경로",
+//     component:
+//   }
+// ];
 
-const router = createRouter({
-  history: createWebHistory(),
-  routes,
-});
+// const router = createRouter({
+//   history: createWebHistory(),
+//   routes,
+// });
 
-export default router; 
+// export default router;
